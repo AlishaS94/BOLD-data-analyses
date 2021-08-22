@@ -1,4 +1,4 @@
-# R Data Analysis with BOLD and NCBI
+# R Data Analyses with BOLD and NCBI
 
 ## Project 1
 #### This was an early project to better understand how to use R and access online databases such as BOLD that are frequently used in bioinformatics. 
