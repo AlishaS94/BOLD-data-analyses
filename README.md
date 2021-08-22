@@ -5,3 +5,6 @@
 
 ## Project 2
 #### Data was obtained from NCBI for organisms in the Clupeiformes order. Supervised Machine Learning with the Random Forest and Caret packages were used to identify sequence records by their genes (CytB or COI). 
+
+## Project 3
+#### The project studied the geography and evolutionary diversification for the genus Ursus. The data for this project was obtained from BOLD Systems. 
